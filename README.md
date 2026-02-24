@@ -2,6 +2,11 @@
 
 Terminal Jump is a small Chrome dinosaur style runner for your terminal, written in a single Python file using curses.
 
+<img width="683" height="248" alt="image" src="https://github.com/user-attachments/assets/6618c6aa-164b-49fb-a3a8-d7c1112ae67f" />
+
+<img width="688" height="244" alt="image" src="https://github.com/user-attachments/assets/147b9b7a-88e1-4f5e-a7f4-232554419ed2" />
+
+
 ## Requirements
 
 You need Python 3.11 or newer.  
